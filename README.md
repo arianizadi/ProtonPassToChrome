@@ -47,13 +47,3 @@ Before using this script, make sure you have Python installed on your computer. 
 - If any errors occur during the conversion, the script will print a message indicating the issue.
 
 - Proton Pass allows multiple URLs to be associated with a single item. However, Chrome only allows one URL per item. Therefore, if an item has multiple URLs, the script will only use the first URL.
-
-## License
-
-This script is provided under an open-source license. You can use, modify, and distribute it freely. Refer to the script file for details.
-
-## Author
-
-This script was created by [Your Name] and is maintained at [Link to your GitHub profile or repository].
-
-Feel free to contribute to the development of this script or report issues if you encounter any problems.
